@@ -11,5 +11,7 @@ Replace your HTTP client with MockHttpClient. It assumes your HTTP client expose
 
 ## TODO:
 Throw error responses.
-Factory to generate records for schema
+
+Factory to generate records for schema.
+
 Optionally intercept XMLHttpRequests.
